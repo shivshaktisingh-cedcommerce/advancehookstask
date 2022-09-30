@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+#check_div_main{
+  width:90%;
+  margin: auto;
+  display:flex;
+  justify-content:start;
+  padding:1vw;
+  margin:1vw;
+  border:1px solid grey;
+ 
+}
+
+#check_div_main1{
+  width:90%;
+  margin: auto;
+}
+
+#check_div_main2{
+  width:90%;
+  margin: auto;
+  text-align: left;
+}
+
+#main_div_id_component_page{
+  width:90%;
+  margin:auto;
+  margin-top:5vw;
+}
+p{
+  width:100%;
+  margin:auto;
+  display: flex;
+  justify-content: space-between;
+  border:1px solid grey;
+  padding:1vw;
+}
+.span_id{
+  width:60%;
+  text-align: left;
+}
